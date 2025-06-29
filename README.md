@@ -39,8 +39,8 @@ Fake-Review-Detector/
 ├── reviews.csv                   # Labeled dataset of reviews
 ├── images/
 │   ├── confusion_matrix.png      # Confusion matrix plot
-│   ├── output_sample_1.png       # Sample prediction image
-│   └── output_sample_2.png       # Sample prediction image
+│   ├── output1.png       # Sample prediction image
+│   └── output2.png       # Sample prediction image
 ├── README.md                     # Project documentation
 ├── requirements.txt              # Required dependencies
 
